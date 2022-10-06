@@ -1,0 +1,4 @@
+#Thu Oct 06 12:01:43 ALMT 2022
+base.0=D\:\\prog\\TSN_ANDROID_DEMO_MICRO-master\\TSN_DEMO_02_Quadratic\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
